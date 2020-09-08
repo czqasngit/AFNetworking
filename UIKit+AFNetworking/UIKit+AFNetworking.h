@@ -37,7 +37,6 @@
 #if TARGET_OS_IOS
     #import "AFNetworkActivityIndicatorManager.h"
     #import "UIRefreshControl+AFNetworking.h"
-    #import "WKWebView+AFNetworking.h"
 #endif
 
 #endif /* _UIKIT_AFNETWORKING_ */
